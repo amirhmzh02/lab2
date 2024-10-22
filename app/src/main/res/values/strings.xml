@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Hi Buddy</string>
+    <string name="user_name">Enter Your Username</string>
+    <string name="user_pwd">Your Password</string>
+    <string name="btn_login">Enter</string>
+
+    <string name="name">Enter your full name</string>
+    <string name="email">Your email@email.com</string>
+    <string name="phonoNo">Contact number example: +06123456789</string>
+    <string name="birth">Your DOB eg:04/07/2002</string>
+    <string name="btnmale">Male</string>
+    <string name="btnfemale">Female</string>
+
+</resources>
